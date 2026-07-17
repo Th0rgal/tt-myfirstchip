@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+My project takes the inputs toggled to 1, and if their sum is superior to 2, it automatically toggles all outputs.
 
 ## How to test
 
-Explain how to use your project
+I tried it in wokli.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+I am just using the builtin LED.
